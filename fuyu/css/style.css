@@ -1,0 +1,54 @@
+.hero {
+    
+    background-position: center; 
+    background-size: cover;
+    text-align: center;
+    
+}
+.header{
+    text-align: center;
+}
+body {
+    background-color: aqua;
+}
+.nav ul {
+    margin: 30px 0 0 0;
+    padding: 0;
+    list-style-type: none;
+
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.nav a:link {
+    color: #253958;
+}
+
+.nav a:visited {
+    color: #253958;
+}
+
+.nav a:hover {
+    text-decoration: none;
+}
+
+.nav a:active {
+    text-decoration: none;
+}
+
+.gotop {
+    text-align: center;
+}
+.copyright {
+    margin-top: 20px;
+    margin-bottom: 0;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    background-color: #253958;
+    color: #ffffff;
+    text-align: center;
+}
+.px{
+    font-size: 20px;
+}
